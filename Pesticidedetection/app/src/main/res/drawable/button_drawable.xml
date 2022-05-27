@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:useLevel="false"
+    >
+    <solid android:color="@color/snow"/>
+    <padding
+        android:bottom="12sp"
+        android:left="12sp"
+        android:right="12sp"
+        android:top="12sp"
+        android:color="@color/snow"
+        />
+    <!--边框宽度-->
+    <size android:width="15sp"
+        android:height="15sp"
+        />
+    <!--边框-->
+</shape>
